@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+a {
+	color: white;
+}
+
+a :visited {
+	color: white;
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+}
+
+#card_image_div {
+	padding: 24px;
+	margin: 24px;
+	display: inline-block;
+}
+
+#effect_implemented {
+	margin: 24px;
+	display: inline-block;
+	background-color: green;
+}
+
+#effect_not_implemented {
+	margin: 24px;
+	display: inline-block;
+	background-color: red;
+}
+
+#logo_container {
+	align-items: center;
+	text-align: center;
+}
+
+li {
+    text-decoration: underline;
+}
+
+li > ul {
+    text-decoration: underline;
+}
+
+li > ul > li:last-child {
+    text-decoration: underline;
+}
