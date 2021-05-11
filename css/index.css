@@ -52,3 +52,30 @@ li > ul {
 li > ul > li:last-child {
     text-decoration: underline;
 }
+
+.li_spacing {
+	margin: 10px;
+}
+
+#div_keycode, #div_bugreports {
+	display: inline-block;
+/* 	margin: 10px; */
+	width: 50%;
+	margin: auto;
+	padding: 10px;
+	border: 4px solid white;
+
+}
+
+#li_effect {
+	background-color: green;
+	
+}
+
+#li_noeffect {
+	background-color: orange;
+}
+
+#li_monster {
+	background-color: green;
+}
