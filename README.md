@@ -1,4 +1,7 @@
 # DOR Remake Public Repository
+Public repository for the work being done on the Duelists of the Roses Remake.
+Download from itch.io: https://ignoresolutions.itch.io/yu-gi-oh-duelists-of-the-roses-remake-beta
+
 ## DOR Remake Current Card List
 
 Current Card List is Located here: https://suicvne.github.io/DOR_Remake/index.html
