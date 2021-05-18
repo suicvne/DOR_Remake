@@ -49,7 +49,7 @@ li > ul {
     text-decoration: underline;
 }
 
-li > ul > li:last-child {
+li > ul > li:first-child {
     text-decoration: underline;
 }
 
